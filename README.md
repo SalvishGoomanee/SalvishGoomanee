@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvishGoomanee&show_icons=true&theme=gruvbox&)
 
 - 🔭 I’m currently working on algorithms for fitting smooth functions to data on manifolds and manifold reconstructions. 
-- 🌱 I’m currently working my way through the Geomstats package. I am happy to discuss these projects which are work in progress at the moment.
+- 🌱 I am presently exploring the Geomstats package would be happy to talk about it and about my work in progress in relation to the above.
 - 📫 How to reach me: goomanee.salvish@gmail.com
 
 <!--
