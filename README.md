@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvishGoomanee&show_icons=true&theme=gruvbox&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvishGoomanee&show_icons=true&theme=gruvbox&hide_rank=True)
 
 - 🔭 I’m currently working on algorithms for fitting smooth functions to data on manifolds and manifold reconstructions. 
 
